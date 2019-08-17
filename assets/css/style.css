@@ -279,8 +279,7 @@ h2 {
     clear: both;
   }
 
-
-  }
+}
 
  
 @media screen and (max-width: 640px) {
@@ -296,8 +295,6 @@ h2 {
     text-align: center;
     font-size: 26px;
     line-height: 50px;
-  
-
   }
 
   .auth-image {
@@ -314,4 +311,5 @@ h2 {
   .work {
     width: 100%;
   }
+
 }
